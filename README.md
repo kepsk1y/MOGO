@@ -1,4 +1,5 @@
-This is my first experience template.
+Template for gaining experience.
+
 To create this template, I used HTML, CSS, and a bit of JS.
 
 How I did it - I found a video of how a professional markup a website, downloaded the same template, and started to markup it by myself.
